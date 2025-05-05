@@ -18,8 +18,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+![codepath-prework](https://i.imgur.com/5GMAetU.gif)
 
-<img src='https://i.imgur.com/a/5GMAetU.gif' title = 'Video Walkthrough' width ='' alt= 'video-walkthorugh'>
+<!-- <img src='https://i.imgur.com/5GMAetU.gif' title = 'Video Walkthrough' width ='' alt= 'video-walkthorugh'> -->
 
 
 ## App Brainstorming (Step 4)
