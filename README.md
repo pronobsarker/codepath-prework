@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 
-<img src='https://imgur.com/a/5GMAetU' title = 'Video Walkthrough' width ='' alt= 'video-walkthorugh'>
+<img src='https://i.imgur.com/a/5GMAetU.gif' title = 'Video Walkthrough' width ='' alt= 'video-walkthorugh'>
 
 
 ## App Brainstorming (Step 4)
